@@ -35,5 +35,5 @@
 
 ### :sassy_woman: Достижения :
 <div>
-  <img src = "https://github-profile-trophy.vercel.app/?username=vezdehhod-ma&theme=onedark" alt=""/>
+  <img src = "https://github-profile-trophy.vercel.app/?username=vezdehhod&theme=onedark" alt=""/>
 </div>
