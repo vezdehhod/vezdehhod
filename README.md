@@ -43,3 +43,8 @@
  <img src = "https://github-readme-stats.vercel.app/api?username=vezdehhod&show_icons=true&theme=radical" alt=""/>
 </div>
 
+### :wave: Статистика активности :
+
+<div>
+   <img src = "https://github-readme-activity-graph.vercel.app/graph?username=vezdehhod&theme=dracula"
+</div>
