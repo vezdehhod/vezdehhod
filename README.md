@@ -22,3 +22,12 @@
 -:muscle: люблю спорт
 
 -:baby: люблю детей
+
+### :desktop_computer: Языки и инструменты :
+
+<div>
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"/>
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40"/>
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original-wordmark.svg" width="40" height="40"/>
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width="40" height="40"/>
+</div>
