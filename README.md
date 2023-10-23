@@ -14,3 +14,5 @@
 <div id="heythere" align ="center">
 <h1> Профиль на GITHUB </h1>
 </div>
+
+### :eye_speech_bubble: Обо мне :
