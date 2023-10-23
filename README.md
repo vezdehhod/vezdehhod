@@ -31,3 +31,6 @@
    <img src = "https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original-wordmark.svg" width="40" height="40"/>
    <img src = "https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width="40" height="40"/>
 </div>
+
+
+### :tropfy: Достижения :
